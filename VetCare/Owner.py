@@ -1,4 +1,4 @@
-class Owner:
+class Owner:    
     def __init__(self, name: str, address: str, city: str, state: str, zip: int, phone: str, pet: list):
         self._name = name
         self._address = address
